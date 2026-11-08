@@ -1,0 +1,9 @@
+name = "lamping"
+version = "0.1.0"
+defaultTargets = ["Lamping", "LampingChecks"]
+
+[[lean_lib]]
+name = "Lamping"
+
+[[lean_lib]]
+name = "LampingChecks"
